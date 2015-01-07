@@ -8,9 +8,7 @@
 		"module", "MX", "HMVC", "core", "library"
 	],
 	"autoload": { },
-	"extra": {
-		"class": "Composer\\Installer\\CodeigniterInstaller"
-	},
+	"extra": {},
 	"require": {
 		"compwright/codeigniter-installers": "*"
 	},
