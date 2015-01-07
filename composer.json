@@ -1,0 +1,20 @@
+{
+	"name": "usabilitydynamics/codeigniter-hmvc",
+	"type": "codeigniter-third-party",
+	"description": "",
+	"license": "MIT",
+	"keywords": [
+		"codeigniter", "composer", "installer", "spark", "sparks",
+		"module", "MX", "HMVC", "core", "library"
+	],
+	"autoload": { },
+	"extra": {
+		"class": "Composer\\Installer\\CodeigniterInstaller"
+	},
+	"require": {
+		"compwright/codeigniter-installers": "*"
+	},
+	"require-dev": {
+		"composer/composer": "1.0.*@dev"
+	}
+}
